@@ -1,2 +1,0 @@
-# botver
-quadrobotcurrentversion
